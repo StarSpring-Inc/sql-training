@@ -1,0 +1,6 @@
+Django==2.0.7
+pytz==2018.5
+six==1.11.0
+sqlparse==0.2.4
+unicodecsv==0.14.1
+git+http://github.com/groveco/django-sql-explorer.git@a651dd199af80d200b614e094accc6313212a092
